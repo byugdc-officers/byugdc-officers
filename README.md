@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @byugdc-officers
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, we're the officers of BYU's Game Development Club!
+- 👀 I’m interested in ... Making video games.
+- 🌱 I’m currently learning ... C#, Unity, and more!
+- 💞️ I’m looking to collaborate on ... our current project: Sensational!
+- 📫 How to reach me ... byugamedev@gmail.com
 
 <!---
 byugdc-officers/byugdc-officers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
